@@ -1,8 +1,8 @@
 # Gender Detection
 A neural network project that detect gender based on provided data that include features extracted from voice.
-# Dataset
+## Dataset
 The dataset (file: voice.csv) is provided by Kory Becker and is avaiable at https://www.kaggle.com/datasets/primaryobjects/voicegender under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>.
-# Metrics
+## Metrics
 With 10 hidden layers and ReLU:
 </br>
 ![0](https://user-images.githubusercontent.com/79080845/193083427-11c58ab3-1f17-4cb8-9e4b-8720f0727cdf.png)
